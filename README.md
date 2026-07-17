@@ -72,16 +72,6 @@ A full-stack web application that connects job seekers and recruiters, allowing 
 
 ---
 
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=srutipathak&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=srutipathak&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=srutipathak&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🌱 Currently Learning
 
 - 🤖 Machine Learning
@@ -95,9 +85,9 @@ A full-stack web application that connects job seekers and recruiters, allowing 
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pathaksruti2005)
 
-📧 **Email:** YOUR_EMAIL@example.com
+📧 **Email:** pathaksruti2005@example.com
 
 ---
 
