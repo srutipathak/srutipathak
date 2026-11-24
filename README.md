@@ -67,18 +67,14 @@ A full-stack MERN application featuring user authentication, restaurant browsing
 ### 🖐️ Gesture Control Presenter
 A computer vision project built using Python, OpenCV, MediaPipe, and PyAutoGUI that enables hands-free presentation control through gesture recognition.
 
-### 💼 Job Portal
-A full-stack web application that connects job seekers and recruiters, allowing users to search jobs, apply online, and manage applications efficiently.
-
 ---
 
 ## 🌱 Currently Learning
 
-- 🤖 Machine Learning
-- 📊 Data Science
-- ☁️ Cloud Computing (Microsoft Azure)
+- 🤖 Artificial Intelligence
+- ☁️ Cloud Computing (AWS)
 - 🔐 Cybersecurity
-- ☕ Advanced Java
+- ☕ Java
 - 🧩 Data Structures & Algorithms
 
 ---
